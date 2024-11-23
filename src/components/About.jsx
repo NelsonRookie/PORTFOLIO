@@ -30,7 +30,7 @@ const About = () => {
             transition={{ duration: 1, delay: 0 }}
             className="flex justify-center lg:justify-start"
           >
-            <p className="my-2 max-w-xl py-6 text-justify">
+            <p className="my-2 max-w-xl py-6 text-justify leading-7 font-semibold">
               Aspiring Front-End Developer with a strong passion for crafting
               user-friendly, responsive, and visually appealing web
               applications. My current expertise includes JavaScript, HTML, CSS,

@@ -2,7 +2,6 @@ import { RiReactjsLine } from "react-icons/ri";
 import { AiOutlineHtml5 } from "react-icons/ai";
 import { RiCss3Fill } from "react-icons/ri";
 import { SiTailwindcss } from "react-icons/si";
-import { FaNode } from "react-icons/fa";
 import { SiMongodb } from "react-icons/si";
 import { motion } from "framer-motion";
 
@@ -67,14 +66,7 @@ const Technologies = () => {
         >
           <SiTailwindcss className="text-7xl text-cyan-400" />
         </motion.div>
-        <motion.div
-          variants={iconVariants(5)}
-          intial="initial"
-          animate="animate"
-          className="rounded-2xl border-4 border-neutral-800 p-4"
-        >
-          <FaNode className="text-7xl " />
-        </motion.div>
+
         <motion.div
           variants={iconVariants(4)}
           intial="initial"
