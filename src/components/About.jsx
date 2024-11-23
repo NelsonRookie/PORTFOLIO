@@ -31,15 +31,17 @@ const About = () => {
             className="flex justify-center lg:justify-start"
           >
             <p className="my-2 max-w-xl py-6 text-justify">
-              During my internship, I had the opportunity to work in a
-              real-world environment, applying my knowledge to solve practical
-              problems. I collaborated with a team of developers, contributed to
-              ongoing projects, and gained hands-on experience with the full
-              software development lifecycle. This experience not only deepened
-              my technical skills but also taught me the importance of teamwork,
-              communication, and adaptability in a professional setting. It was
-              a pivotal experience that solidified my passion for web
-              development and prepared me for a career in the industry.
+              Aspiring Front-End Developer with a strong passion for crafting
+              user-friendly, responsive, and visually appealing web
+              applications. My current expertise includes JavaScript, HTML, CSS,
+              and React.js, and I am dedicated to continuously expanding my
+              skill set. Driven by creativity and innovation, I enjoy
+              transforming ideas into functional and engaging digital
+              experiences. My projects reflect my commitment to delivering
+              solutions that users find intuitive and enjoyable. I welcome
+              opportunities to collaborate, learn, and grow in the dynamic field
+              of web development. Feel free to explore my work and reach
+              out—I&apos;m always eager to connect and exchange ideas!
             </p>
           </motion.div>
         </div>
